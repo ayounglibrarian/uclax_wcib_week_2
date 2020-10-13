@@ -1,5 +1,28 @@
 body {
   background: url("../images/background.jpg");
-  font-family: sans-serif; }
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin: auto;
+  font-family: Helvetica, Arial, sans-serif; }
   body body img {
-    width: 100%; }
+    width: 100%;
+    height: auto; }
+
+h1 {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  text-align: left; }
+
+h2 {
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+  text-align: left; }
+
+h3 {
+  font-size: 1rem;
+  color: black;
+  font-weight: bold;
+  text-align: left; }
